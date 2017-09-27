@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<Folder id="layer 0">
+		<name>Libro</name>
+		<open>1</open>
+
+		<Placemark>
+			<name>19.3581</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Libro_DD">
+					<SimpleData name="LugarVenta">19.3581</SimpleData>
+					<SimpleData name="Coordenadas">-99.1248</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.12482990000002,19.35807469999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19.3662</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Libro_DD">
+					<SimpleData name="LugarVenta">19.3662</SimpleData>
+					<SimpleData name="Coordenadas">-99.1227</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.12271490000001,19.3661912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19.3581</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Libro_DD">
+					<SimpleData name="LugarVenta">19.3581</SimpleData>
+					<SimpleData name="Coordenadas">-99.1253</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.12534999999997,19.35807,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19.3442</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Libro_DD">
+					<SimpleData name="LugarVenta">19.3442</SimpleData>
+					<SimpleData name="Coordenadas">-99.1262</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.12618000000002,19.34424000000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19.3648</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Libro_DD">
+					<SimpleData name="LugarVenta">19.3648</SimpleData>
+					<SimpleData name="Coordenadas">-99.1227</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1227042,19.36483010000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19.3578</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Libro_DD">
+					<SimpleData name="LugarVenta">19.3578</SimpleData>
+					<SimpleData name="Coordenadas">-99.1221</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1220821,19.35778520000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>19.3587</name>
+			<styleUrl>#pointStyleMap</styleUrl>
+			<Style id="inline">
+				<IconStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</IconStyle>
+				<LineStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</LineStyle>
+				<PolyStyle>
+					<color>fff1f0ef</color>
+					<colorMode>normal</colorMode>
+				</PolyStyle>
+			</Style>
+			<ExtendedData>
+				<SchemaData schemaUrl="#S_Libro_DD">
+					<SimpleData name="LugarVenta">19.3587</SimpleData>
+					<SimpleData name="Coordenadas">-99.1304</SimpleData>
+				</SchemaData>
+			</ExtendedData>
+			<Point>
+				<coordinates>-99.1304019,19.35870220000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Poligono1</name>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Polygon>
+				<tessellate>1</tessellate>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-99.18176381088752,19.36434229143637,0 -99.17960573656133,19.36377766332622,0 -99.17899898580981,19.36413912084165,0 -99.17845953731239,19.36467791582348,0 -99.17805215503786,19.36504926805102,0 -99.17899254060603,19.36613431201508,0 -99.1799565639961,19.36704332265905,0 -99.1807378832094,19.36753547029554,0 -99.18143431234284,19.36563530183038,0 -99.18176381088752,19.36434229143637,0 
+						</coordinates>
+						<Point>
+							<coordinates>19.365125,-99.179432,0</coordinates>
+						</Point>
+					</LinearRing>
+
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
